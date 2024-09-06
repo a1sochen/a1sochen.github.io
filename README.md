@@ -1,2 +1,2 @@
 # a1sochen.github.io
-github博客
+github个人主页
