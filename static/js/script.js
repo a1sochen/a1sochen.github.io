@@ -207,7 +207,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-var pageLoading = document.querySelector("#zyyo-loading");
+var pageLoading = document.querySelector("#a1sochen-loading");
 window.addEventListener('load', function() {
     setTimeout(function () {
         pageLoading.style.opacity = '0';
